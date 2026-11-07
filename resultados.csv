@@ -1,0 +1,4 @@
+filtro,ganancia_5Hz_dB,ganancia_50Hz_dB,ganancia_120Hz_dB,snr_antes_dB,snr_despues_dB
+"Pasa bajos (Butterworth IIR, fc=20 Hz)",-0.00,-32.08,-63.91,-1.56,15.56
+"Pasa altos (Chebyshev I IIR, fc=100 Hz)",-117.42,-34.88,-0.60,-9.51,-2.59
+"Pasa bandas (FIR Hamming, 40-60 Hz)",-65.14,-0.00,-74.65,-6.21,14.42
